@@ -14,7 +14,13 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
+<h3 align="center">👋 Hi there! I'm Jean Baez</h3>
+<p align="center">
+  <a href="https://www.jeanbaeez.dev">Website</a> •
+  <a href="https://twitter.com/jeanbaeez">Twitter</a>
+</p>
 
+---
 
 
 
