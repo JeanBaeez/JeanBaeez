@@ -33,3 +33,5 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeanbaeez)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanbaeez)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jeanbaeez)
