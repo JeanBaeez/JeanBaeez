@@ -1,3 +1,7 @@
+
+![Csharp](https://img.shields.io/badge/-csharp-black?style=flat-square&logo=Csharp)
+![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=.NET)
+![Blazor](https://img.shields.io/badge/-blazor-black?style=flat-square&logo=blazor)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
